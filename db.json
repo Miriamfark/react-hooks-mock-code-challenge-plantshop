@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Grass",
+      "image": "https://images.unsplash.com/photo-1533460004989-cef01064af7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3Jhc3N8ZW58MHx8MHx8&w=1000&q=80",
+      "price": "2.99",
+      "id": 8
+    },
+    {
+      "name": "Leaves",
+      "image": "https://media.istockphoto.com/photos/leaf-picture-id500613911?b=1&k=20&m=500613911&s=170667a&w=0&h=G8dLA553f1-lPUhacOrFnfiZiOvLrz3hihqAzLETHOg=",
+      "price": "1.50",
+      "id": 9
+    },
+    {
+      "name": "Dandylions",
+      "image": "https://image.shutterstock.com/image-photo/dandelion-flower-on-white-background-260nw-626460020.jpg",
+      "price": "50",
+      "id": 10
     }
   ]
 }
